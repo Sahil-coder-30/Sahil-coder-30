@@ -17,7 +17,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=Sahil-coder-30&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS"/>
   &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/sahil-sharma-1a024b330/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:sahilsharma3043@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
