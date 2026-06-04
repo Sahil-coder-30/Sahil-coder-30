@@ -1,117 +1,314 @@
-# 🪐 Welcome to My Universe
+<!-- ═══════════════════════════════════════════════════════ HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SAHIL&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Agent%20Builder&descAlignY=58&descSize=16&descColor=7aa2f7" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type/waving&color=1a1b26&height=200&section=header&text=SAHIL&fontSize=80&fontColor=7aa2f7&animation=twinkling" alt="Header Banner" />
-</p>
-
-<p align="center">
+<!-- ═══════════════════════════════════════════════════════ TYPING SVG -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&center=true&vCenter=true&duration=3000&pause=1000&color=2ac3de&width=500&lines=Full-Stack+AI+Engineer;AI+Systems+Architect;MERN+Stack+Developer;Intelligent+Agent+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=2AC3DE&center=true&vCenter=true&repeat=true&width=650&lines=Designing+deterministic+AI+agent+graphs...;Engineering+multi-modal+ML+pipelines...;Shipping+real-time+full-stack+systems...;Enforcing+compliance+with+RAG+%2B+Law...;Building+intelligence%2C+not+just+apps." alt="Typing SVG" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ PROFILE VIEWS + SOCIALS -->
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Sahil-coder-30&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS"/>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sahil-coder-30">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</div>
+
+<br/>
 
 ---
 
-### 🧬 About Me
-I am a **Full-Stack AI Engineer** obsessed with the friction point where high-level intelligent systems meet low-level web and architectural efficiency. I don't just build traditional applications—I design deterministic multi-agent graphs, optimize data pipelines down to **B-Trees**, defend against model hallucinations, and bridge edge-computed computer vision with robust backend design.
+## 🧬 Who Am I?
+
+```
+"I don't build apps. I build intelligent systems that think, adapt, and defend themselves."
+```
+
+I'm a **Full-Stack AI Engineer** operating at the intersection of **multi-agent orchestration**, **distributed ML inference**, and **enterprise web architecture**. My systems don't just respond — they reason through **LangGraph state machines**, verify themselves with **Reverse-RAG hallucination guards**, detect deceptive UI patterns using **YOLO + Open-CLIP ensembles**, and scale with **Redis-powered real-time pipelines**.
+
+Currently a **B.Tech student** shipping production-grade systems that most engineers won't touch until they're 5 years into their careers.
+
+<br/>
+
+<table>
+  <tr>
+    <td>🔭&nbsp;&nbsp;<b>Building</b></td>
+    <td>SNITCH — A premium dual-role e-commerce engine with AI Style DNA</td>
+  </tr>
+  <tr>
+    <td>🛡️&nbsp;&nbsp;<b>Researching</b></td>
+    <td>Self-healing AI guardrails via Reverse-RAG (Project Veracity)</td>
+  </tr>
+  <tr>
+    <td>🏆&nbsp;&nbsp;<b>Competed</b></td>
+    <td>Led AI-powered dark pattern auditor at hackathon vs 50+ teams</td>
+  </tr>
+  <tr>
+    <td>📚&nbsp;&nbsp;<b>Studying</b></td>
+    <td>B.Tech @ JSS Academy of Technical Education, Noida (AKTU)</td>
+  </tr>
+  <tr>
+    <td>💡&nbsp;&nbsp;<b>Obsessed with</b></td>
+    <td>B-Trees, memory layout, LangGraph, and systems that don't lie</td>
+  </tr>
+  <tr>
+    <td>⚡&nbsp;&nbsp;<b>Philosophy</b></td>
+    <td>Trace your queries to disk seeks. Map your variables to memory.</td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
 ## 🛠️ The Tech Arsenal
 
-<details open>
-<summary><b>🚀 Backend, Architecture & Real-Time Runtimes</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js_v5-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-</details>
+### 🤖 AI · ML · LLM Stack
 
-<details open>
-<summary><b>🤖 AI, Machine Learning & Vector Engines</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain_/_LangGraph-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/MongoDB_Vector_Search-47A3F3?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=7aa2f7"/>
+  <img src="https://img.shields.io/badge/LangGraph-2D2D2D?style=for-the-badge&logo=chainlink&logoColor=2AC3DE"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tavily_AI-6C3483?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-007ACC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB_Vector_Search-47A3F3?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Open--CLIP-412991?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-2ECC71?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
-</details>
 
-<details>
-<summary><b>🎨 Frontend & UI/UX Automation</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+### ⚡ Backend · Runtime · Architecture
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,typescript,redis,py&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
-</details>
+
+### 🎨 Frontend · UI/UX
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,js,ts&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
+
+### 🗄️ Databases · Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,git,github,linux&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ImageKit-0770E3?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NodeMailer-22B573?style=for-the-badge&logoColor=white"/>
+</p>
+
+<br/>
 
 ---
 
 ## 🚀 Deep Engineering Projects
 
-### 🕵️‍♂️ YourCrawl | *Multi-Modal Dark Pattern Auditor & Legal RAG Agent*
-> **An enterprise-grade orchestration system and distributed ML engine designed to detect malicious UI/UX practices and map compliance violations against global legal frameworks.**
-* **The Crawling Engine:** Engineered an Express backend featuring heavy resource-blocking routines and a headless **Puppeteer** pipeline to extract raw DOM interaction nodes, spatial bounding boxes, computed CSS tokens, and full-page layouts.
-* **Multi-Modal ML Core:** Designed a Python **FastAPI** microservice combining Computer Vision (**YOLO**, **Open-CLIP**) for layout distortions, NLP transformers for deceptive text, and an ensemble pipeline (**XGBoost**, **LightGBM**, **Scikit-learn**) with secondary **Gemini** verification vectors.
-* **Deterministic Legal RAG:** Implemented a compliance checking layer driven by a local **ChromaDB** instance vectorizing multi-national legislation (DPDP Act, EU AI Act, CCPA). Uses **LangChain** (`gemini-2.5-flash-lite`) with automated multi-key failover rotation.
+<details open>
+<summary><b>🕵️‍♂️ YourCrawl — Multi-Modal Dark Pattern Auditor & Legal RAG Agent</b> &nbsp; <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square"/> &nbsp; <a href="YOUR_YOURCRAWL_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-7aa2f7?style=flat-square&logo=vercel&logoColor=white"/></a> &nbsp; <a href="https://github.com/Sahil-coder-30/YOUR_YOURCRAWL_REPO"><img src="https://img.shields.io/badge/Source-171515?style=flat-square&logo=github"/></a></summary>
+<br/>
 
-### 🌐 JIGYAZA | *AI Search & Conversational Research Assistant*
-> **A high-performance conversational answer engine inspired by Perplexity AI, built for real-time synthesis.**
-* **Real-Time Streaming Engine:** Developed a robust **Node.js/Express 5** backend integrated with **Socket.io** to seamlessly stream real-time tokens to a fluid **React 19 + Redux Toolkit** user interface.
-* **Intelligent Research Pipeline:** Orchestrated an AI execution flow via **LangChain** utilizing `gemini-2.5-flash` for contextual chat execution, `mistral-large` for deterministic dynamic title generation, and **Tavily AI** for live internet search queries.
-* **High-Throughput Caching & Security:** Leveraged **Redis** (`ioredis`) for session-state caching and implemented a strict security token blacklist to prevent stale JWT cross-site authentication exploits upon logout.
+> **Enterprise-grade orchestration system + distributed ML engine** to detect malicious UI/UX practices and map compliance violations against global legal frameworks.
 
-### ⚔️ AI Battle Arena | *Graph-Driven Model Benchmarking System*
-> **A full-stack algorithmic evaluation engine that orchestrates performance duels between competing LLMs.**
-* **Graph-Based Execution:** Engineered a specialized **Express + TypeScript** backend using **LangChain Graph** (`src/graph/graph.ts`) state machines to safely isolate, pipeline, and evaluate parallel model inputs and outputs.
-* **Persistence & Ranking:** Integrated secure HttpOnly cookie management (`SameSite=None`, `Secure`) mapped to an aggregated **MongoDB** database tracking win/loss metrics, problem categories, and historical judge metrics to generate global leaderboards.
+| Layer | Technology | Purpose |
+|:---|:---|:---|
+| 🕸️ Crawling Engine | Express + Puppeteer | DOM extraction, bounding boxes, computed CSS tokens |
+| 👁️ Vision ML | YOLO + Open-CLIP | Layout distortion & visual deception detection |
+| 🧠 NLP Ensemble | Transformers + XGBoost + LightGBM | Deceptive text classification |
+| ⚖️ Legal RAG | ChromaDB + LangChain (`gemini-2.5-flash-lite`) | Compliance vs DPDP Act, EU AI Act, CCPA |
+| 🔁 Verification | Gemini secondary vectors + multi-key failover | LLM cross-check with automated fallback |
 
-### 🛍️ SNITCH | *Premium Dual-Role E-Commerce Engine*
-> **A high-fidelity full-stack enterprise ecosystem with an Amazon-style storefront.**
-* **Dual-Role Runtime Architecture:** Engineered a secure double-sided commerce layout (Buyer & Seller dashboards) leveraging custom Role-Based Access Control (RBAC), JWT Access/Refresh vectors, and Google OAuth 2.0.
-* **Premium UX Infrastructure:** Applied **GSAP animations**, feature-based SCSS variables, and glassmorphism layouts. Integrated **ImageKit** API for optimized asynchronous media management and **NodeMailer** to trigger verification flows.
+</details>
 
-### 🛡️ Project Veracity | *Self-Healing AI Guardrails*
-> **A real-time Hallucination Firewall for LLMs.**
-* Developed a complex **Reverse-RAG** workflow built on **LangGraph** to intercept LLM streams, utilizing **MongoDB Atlas Vector Search** to validate facts semantically and self-heal model output variations dynamically before hitting the client layer.
+<br/>
 
-### 🧠 Moodify | *Edge Vision Mood Analytics Platform*
-> **A biometric authentication and interface ecosystem adapting system experiences to user emotional states.**
-* **Edge ML Processing:** Implemented real-time client-side expression categorization (Happy, Sad, Angry, Surprised, Sleepy, Neutral) utilizing **Google MediaPipe** (`@mediapipe/tasks-vision`) processing webcams with low overhead.
-* **State Verification Lifecycle:** Paired data telemetry to an Express server with secure cookies and state-saving architectures with **Redis** tracking token invalidation arrays.
+<details open>
+<summary><b>🌐 JIGYAZA — AI Search & Conversational Research Assistant</b> &nbsp; <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square"/> &nbsp; <a href="YOUR_JIGYAZA_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-7aa2f7?style=flat-square&logo=vercel&logoColor=white"/></a> &nbsp; <a href="https://github.com/Sahil-coder-30/YOUR_JIGYAZA_REPO"><img src="https://img.shields.io/badge/Source-171515?style=flat-square&logo=github"/></a></summary>
+<br/>
+
+> **High-performance conversational answer engine** inspired by Perplexity AI, built for real-time synthesis.
+
+| Layer | Technology | Purpose |
+|:---|:---|:---|
+| ⚡ Streaming | Node.js / Express 5 + Socket.io | Real-time token streaming to React 19 UI |
+| 🤖 AI Core | LangChain + Gemini 2.5 Flash | Contextual chat orchestration |
+| 📝 Titles | Mistral Large | Deterministic dynamic title generation |
+| 🌍 Live Search | Tavily AI | Real-time internet grounding |
+| 🔐 Auth + Cache | Redis (ioredis) + JWT Blacklist | Session caching + stale auth prevention |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>⚔️ AI Battle Arena — Graph-Driven LLM Benchmarking System</b> &nbsp; <img src="https://img.shields.io/badge/Status-Shipped-4287f5?style=flat-square"/> &nbsp; <a href="https://github.com/Sahil-coder-30/YOUR_ARENA_REPO"><img src="https://img.shields.io/badge/Source-171515?style=flat-square&logo=github"/></a></summary>
+<br/>
+
+> **Full-stack algorithmic evaluation engine** that orchestrates performance duels between competing LLMs.
+
+- **LangChain Graph** (`src/graph/graph.ts`) state machines safely isolate and pipeline parallel model I/O
+- **MongoDB** aggregation for win/loss tracking, problem categories, and global leaderboard generation
+- **Secure cookie architecture**: HttpOnly, SameSite=None, Secure — with JWT refresh rotation
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🛍️ SNITCH — Premium Dual-Role E-Commerce Engine</b> &nbsp; <img src="https://img.shields.io/badge/Status-In_Progress-f5a623?style=flat-square"/> &nbsp; <a href="https://github.com/Sahil-coder-30/YOUR_SNITCH_REPO"><img src="https://img.shields.io/badge/Source-171515?style=flat-square&logo=github"/></a></summary>
+<br/>
+
+> **Amazon-grade storefront ecosystem** with dual Buyer/Seller dashboards and an AI-powered style engine.
+
+- **RBAC + OAuth**: Role-Based Access Control, JWT Access/Refresh tokens, Google OAuth 2.0
+- **AI Style DNA**: LangChain + LangGraph powered style recommendation engine
+- **Premium UX**: GSAP animations, glassmorphism SCSS layouts, ImageKit async media CDN
+- **Email Flows**: NodeMailer-triggered verification and transactional pipelines
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🛡️ Project Veracity — Self-Healing AI Hallucination Firewall</b> &nbsp; <img src="https://img.shields.io/badge/Status-Research-8e44ad?style=flat-square"/> &nbsp; <a href="https://github.com/Sahil-coder-30/YOUR_VERACITY_REPO"><img src="https://img.shields.io/badge/Source-171515?style=flat-square&logo=github"/></a></summary>
+<br/>
+
+> **Real-time hallucination interception system** for LLMs using a Reverse-RAG workflow.
+
+- **Reverse-RAG on LangGraph** intercepts live LLM output streams before they hit the client
+- **MongoDB Atlas Vector Search** semantically validates factual claims in real-time
+- Self-heals output variations and corrections dynamically before final response delivery
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🧠 Moodify — Edge Vision Mood Analytics Platform</b> &nbsp; <img src="https://img.shields.io/badge/Status-Shipped-4287f5?style=flat-square"/> &nbsp; <a href="https://github.com/Sahil-coder-30/YOUR_MOODIFY_REPO"><img src="https://img.shields.io/badge/Source-171515?style=flat-square&logo=github"/></a></summary>
+<br/>
+
+> **Biometric authentication + adaptive UI ecosystem** driven by on-device emotional state detection.
+
+- **Edge ML**: MediaPipe (`@mediapipe/tasks-vision`) classifies 6 emotions (Happy, Sad, Angry, Surprised, Sleepy, Neutral) on-device
+- **Redis State Tracking**: Token invalidation arrays + persistent session architecture
+- **Zero-Latency UX**: Full inference runs client-side with minimal backend footprint
+
+</details>
+
+<br/>
 
 ---
 
-## 📊 Performance Metrics
+## 📊 GitHub Performance
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Sahil's GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" height="170" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-coder-30&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&include_all_commits=true&count_private=true" height="175"/>
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Sahil-coder-30&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" height="175"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-coder-30&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&langs_count=8" height="160"/>
+</div>
 
-### 🧠 Core Philosophy
-> *"The abstraction layer is a lease, not a permanent home. True system ownership means tracing your higher-level database queries straight down to the underlying disk seek, and mapping your variables back to physical memory layout."*
+<br/>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Environment-M4_MacBook_Air-7aa2f7?style=flat-square&logo=apple&logoColor=white" alt="Environment" />
-</p>
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-coder-30&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7"/>
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-coder-30&theme=tokyo-night&hide_border=true&radius=6&area=true" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 🧠 Engineering Manifesto
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   "The abstraction layer is a lease, not a permanent home.                  │
+│    True system ownership means tracing your higher-level queries             │
+│    straight down to the underlying disk seek,                                │
+│    and mapping your variables back to physical memory layout."               │
+│                                                                              │
+│                                                              — Sahil         │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
+</div>
