@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=SAHIL%20SHARMA&fontSize=72&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Distributed%20Systems%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Kubernetes%20%26%20Agents&descAlignY=62&descSize=15&descColor=94A3B8" width="100%"/>
+<!-- HEADER BANNER (Hosted statically in repo to eliminate Camo 504 timeouts) -->
+<img src="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/main/assets/header.svg" width="100%" alt="Sahil Sharma - Header"/>
 
 </div>
 
@@ -275,21 +275,24 @@ A high-performance enterprise crawler and **legal compliance engine** that detec
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sahil-coder-30&show_icons=true&theme=github_dark&border_radius=8&hide_border=true&include_all_commits=true&count_private=true&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&bg_color=0D1117" height="175"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=Sahil-coder-30&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=94A3B8" height="175"/>
-
+  <!-- Live GitHub Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=Sahil-coder-30&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=94A3B8" height="185"/>
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Key Metrics & Top Languages by Repo (Hosted statically in repo, zero third-party rate limits) -->
+  <img src="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/main/assets/stats.svg" height="175"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/main/assets/repos-per-language.svg" height="175"/>
+</div>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sahil-coder-30&layout=compact&theme=github_dark&border_radius=8&hide_border=true&langs_count=8&title_color=6366F1&text_color=94A3B8&bg_color=0D1117" height="155"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahil-coder-30&theme=github_dark" height="155"/>
+<br/>
 
+<div align="center">
+  <!-- Annual Contribution Activity Wave & Account Details -->
+  <img src="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/main/assets/profile-details.svg" width="96%"/>
 </div>
 
 <br/>
@@ -305,7 +308,7 @@ NAME
     sahil — full-stack AI engineer, systems architect, distributed builder
 
 SYNOPSIS
-    sahil [--build] [--cloud-systems] [--research] [--obsess-over-fundamentals]
+    sahil [--build] [--distributed] [--research] [--fundamentals]
 
 DESCRIPTION
     Architects enterprise-grade cloud platforms, Kubernetes sandboxes,
@@ -314,12 +317,12 @@ DESCRIPTION
     Ships robust distributed systems designed for resilience and scale.
 
 OPTIONS
-    --build           MERN + LangGraph + Kubernetes microservices + Redis
-    --distributed     Hyperledger Fabric 2.5 + ECDSA ES256 cryptographic provenance
-    --research        Reverse-RAG hallucination firewalls & legal RAG ensembles
-    --fundamentals    B-Trees, OS memory layout, network protocols, consensus
+    --build           Cloud IDE sandboxes (K8s), LangGraph agents, MERN
+    --distributed     Hyperledger Fabric 2.5, ECDSA ES256 drug provenance
+    --research        Multi-agent RAG, hallucination firewalls, dark pattern ML
+    --fundamentals    OS memory layout, B-Trees, Raft consensus, network I/O
     --friends         Samarth, Meghanshu, Shubh
-    --hardware        MacBook Air M4
+    --hardware        Apple Silicon M4 · macOS
 
 PHILOSOPHY
     The abstraction layer is a lease, not a permanent home.
@@ -339,8 +342,10 @@ SAHIL                           2026                                  SAHIL(1)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&fontColor=94A3B8" width="100%"/>
+<!-- FOOTER BANNER (Hosted statically in repo to eliminate Camo 504 timeouts) -->
+<img src="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/main/assets/footer.svg" width="100%" alt="Footer Banner"/>
 
+<br/>
 <sub>Systems don't lie. Code doesn't bluff. Ship or be shipped.</sub>
 
 </div>
