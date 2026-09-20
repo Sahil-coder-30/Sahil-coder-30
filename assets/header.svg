@@ -1,49 +1,34 @@
+<svg
+  width="854"
+  height="220"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="z-index:1;position:relative"
+  viewBox="0 0 854 220"
+>
+  <style>
+    .text { font-size: 64px; font-weight: 800; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; letter-spacing: 2px; }
+    .role { font-size: 18px; font-weight: 600; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; letter-spacing: 1px; }
+    .desc { font-size: 14px; font-weight: 500; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; opacity: 0.85; }
+    .text, .role, .desc { animation: fadeIn 1.2s ease-in-out forwards; }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="854" height="220" fill="#0D1117"/>
 
-      <svg
-        width="854"
-        height="220"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 220"
-      >
-        <style>
-      .text {   font-size: 72px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 15px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#0D1117"/><stop offset="50%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#16213e"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 110) scale(1, 1) translate(-427, -110)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="text" style="fill:#E2E8F0;" stroke="#none" stroke-width="1" >SAHIL SHARMA</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="62%" class="desc" style="fill:#E2E8F0;">Distributed Systems • AI Architect • Kubernetes &amp; Agents</text>
-      </svg>
-    
+  <g transform="translate(427, 110) scale(1, 1) translate(-427, -110)">
+    <path d="M0,160 C150,210 350,110 500,160 C650,210 750,130 854,150 L854,220 L0,220 Z" fill="url(#linear)" opacity="0.6" />
+    <path d="M0,175 C200,140 380,210 550,170 C700,130 800,190 854,175 L854,220 L0,220 Z" fill="#16213e" opacity="0.4" />
+  </g>
+
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="34%" class="text" fill="#F1F5F9">SAHIL SHARMA</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="role" fill="#818CF8">AI-Native Software Engineer &amp; Systems Architect</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="76%" class="desc" fill="#94A3B8">GenAI • Kubernetes • MERN • PostgreSQL • Distributed Systems</text>
+</svg>
