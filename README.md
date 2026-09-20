@@ -226,12 +226,12 @@ A high-performance enterprise crawler and **legal compliance audit engine** that
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
 ![macOS](https://img.shields.io/badge/macOS_M4-1e1e2e?style=flat-square&logo=apple&logoColor=white)
 
-**MERN & Backend Architecture**
+**Backend & Distributed Architecture**
 
 ![Node.js](https://img.shields.io/badge/Node.js_20-1e1e2e?style=flat-square&logo=nodedotjs&logoColor=68A063)
 ![Express](https://img.shields.io/badge/Express-1e1e2e?style=flat-square&logo=express&logoColor=EEEEEE)
-![React](https://img.shields.io/badge/React_19-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=3B82F6)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1e1e2e?style=flat-square&logo=fastapi&logoColor=009688)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e1e2e?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![Redis](https://img.shields.io/badge/Redis-1e1e2e?style=flat-square&logo=redis&logoColor=DC382D)
@@ -249,7 +249,7 @@ A high-performance enterprise crawler and **legal compliance audit engine** that
 
 **Frontend & Mobile Engineering**
 
-![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=3B82F6)
+![React](https://img.shields.io/badge/React_19-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js_14-1e1e2e?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-1e1e2e?style=flat-square&logo=redux&logoColor=764ABC)
