@@ -209,7 +209,6 @@ A high-performance enterprise crawler and **legal compliance engine** that detec
 ![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&logo=linux&logoColor=FCC624)
 ![Nginx](https://img.shields.io/badge/Nginx-1e1e2e?style=flat-square&logo=nginx&logoColor=009639)
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
-![macOS](https://img.shields.io/badge/macOS_M4-1e1e2e?style=flat-square&logo=apple&logoColor=white)
 
 **AI, Multi-Agent & Machine Learning**
 
