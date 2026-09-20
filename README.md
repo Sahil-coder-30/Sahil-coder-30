@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=SAHIL%20SHARMA&fontSize=72&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Agent%20Builder&descAlignY=62&descSize=15&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=SAHIL%20SHARMA&fontSize=72&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Distributed%20Systems%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Kubernetes%20%26%20Agents&descAlignY=62&descSize=15&descColor=94A3B8" width="100%"/>
 
 </div>
 
@@ -9,7 +9,7 @@
 
 <!-- TERMINAL BOOT SEQUENCE TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=6366F1&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%24+init+sahil.process+--mode%3Dproduction;%E2%96%BA+loading+langraph+state+machines...+%5BDONE%5D;%E2%96%BA+mounting+reverse-rag+firewall...+%5BDONE%5D;%E2%96%BA+compiling+agent+orchestration+layer...+%5BDONE%5D;%E2%96%BA+all+systems+nominal.+output%3A+intelligent+systems.;%24+_" alt="Terminal boot sequence" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=6366F1&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=%24+init+sahil.process+--mode%3Dproduction;%E2%96%BA+loading+langgraph+state+machines...+%5BDONE%5D;%E2%96%BA+mounting+k8s+microservices+%26+hyperledger...+%5BDONE%5D;%E2%96%BA+compiling+multi-agent+orchestration+layer...+%5BDONE%5D;%E2%96%BA+all+systems+nominal.+output%3A+intelligent+systems.;%24+_%20" alt="Terminal boot sequence" />
 </a>
 
 </div>
@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sharma-1a024b330/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/github-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahil-coder-30)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahilsharma3043@gmail.com)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.dev)&nbsp;&nbsp;
+[![macOS Portfolio](https://img.shields.io/badge/portfolio_os-6366F1?style=flat-square&logo=apple&logoColor=white)](https://github.com/Sahil-coder-30/MAC-OS)&nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahil-coder-30&style=flat-square&color=6366F1&label=profile+views)
 
 </div>
@@ -34,16 +34,16 @@
 ## `> whoami`
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  PROCESS  : sahil.sharma                                                ║
-║  ROLE     : Full-Stack AI Engineer · Systems Architect                   ║
-║  STACK    : MERN · LangGraph · Reverse-RAG · Real-time ML Pipelines     ║
-║  UPTIME   : B.Tech CSE Sem 5 @ JSS Academy, Noida                       ║
-║  STATUS   : ▶  BUILDING SYSTEMS THAT THINK                              ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║  PROCESS  : sahil.sharma                                                         ║
+║  ROLE     : Full-Stack AI & Systems Engineer · Cloud & Distributed Architect      ║
+║  STACK    : Kubernetes · LangGraph · Hyperledger Fabric · MERN · Real-Time ML    ║
+║  UPTIME   : B.Tech CSE Sem 5 @ JSS Academy of Technical Education, Noida         ║
+║  STATUS   : ▶ BUILDING PRODUCTION-GRADE DISTRIBUTED & INTELLIGENT SYSTEMS        ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-I don't write features. I design **intelligence layers** — deterministic state machines that reason, hallucination firewalls that self-heal, and inference pipelines that scale. Every abstraction I write, I can trace back to the disk seek that executes it.
+I don't just write features. I architect **resilient systems and intelligence layers** — deterministic LangGraph state machines that reason autonomously, isolated Kubernetes execution sandboxes, tamper-evident cryptographic ledgers, and sub-100ms real-time streaming engines. Every abstraction I implement can be traced back to the network packet, container cgroup, and disk seek beneath it.
 
 > *"The abstraction layer is a lease, not a permanent home. Own the metal beneath it."*
 
@@ -55,28 +55,34 @@ I don't write features. I design **intelligence layers** — deterministic state
 
 <br/>
 
-### 🕵️ YourCrawl &nbsp;·&nbsp; `multi-modal dark pattern auditor`
+### 🚀 [AI Sandbox (Capstone)](https://github.com/Sahil-coder-30/Capstone) &nbsp;·&nbsp; `multi-tenant cloud ide & k8s pod orchestration`
 
 ```
-ARCHITECTURE: enterprise orchestration + distributed ML inference
-STATUS:       ██████████ active
+ARCHITECTURE: microservice cluster + dynamic kubernetes pod lifecycle
+STATUS:       ██████████ active · production
+REPOSITORY:   github.com/Sahil-coder-30/Capstone
 ```
 
-A **legal compliance engine** that doesn't just flag dark patterns — it maps them to specific clauses in the DPDP Act, EU AI Act, and CCPA. Built on a five-layer pipeline: Puppeteer DOM extraction → YOLO + Open-CLIP visual deception detection → Transformer + XGBoost NLP ensemble → ChromaDB Legal RAG → Gemini cross-verification with automated multi-key failover.
+[![Repository](https://img.shields.io/badge/Repository-Capstone-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahil-coder-30/Capstone)&nbsp;
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/Sahil-coder-30/Capstone)&nbsp;
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Sahil-coder-30/Capstone)&nbsp;
+[![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logo=chainlink&logoColor=white)](https://github.com/Sahil-coder-30/Capstone)&nbsp;
+[![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)](https://github.com/Sahil-coder-30/Capstone)
 
-`Express` `Puppeteer` `YOLO` `Open-CLIP` `LangChain` `ChromaDB` `Gemini 2.5` `XGBoost` `LightGBM`
+An enterprise-grade, browser-based cloud IDE where every developer and AI agent gets an isolated Kubernetes sandbox pod with a live Vite dev server, a File System API sidecar, an interactive PTY terminal server, and a real-time S3 sync daemon. Asymmetric scaling decouples compute-heavy LangGraph agent loops from stateless JWT authentication and high-concurrency WebSocket proxies, isolating blast radiuses and guaranteeing zero cross-tenant contamination.
+
+`Kubernetes` `Docker` `Skaffold` `LangGraph` `Node.js` `Express` `React` `TypeScript` `MongoDB` `Redis` `AWS S3` `WebSocket`
 
 <details>
 <summary><b>↳ Architecture deep-dive</b></summary>
 <br/>
 
-| Layer | Technology | Signal |
+| Layer | Technology | Operational Function |
 |:---|:---|:---|
-| 🕸️ Crawler | Express + Puppeteer | DOM tree, bounding boxes, computed CSS tokens |
-| 👁️ Vision | YOLO + Open-CLIP | Layout distortion, fake urgency, visual deception |
-| 🧠 NLP | Transformers + XGBoost + LightGBM | Deceptive text classification ensemble |
-| ⚖️ Legal RAG | ChromaDB + LangChain | Clause-level mapping to DPDP / EU AI Act / CCPA |
-| 🔁 Verifier | Gemini secondary vectors | LLM cross-check with automated API failover |
+| ☸️ **Pod Orchestration** | Kubernetes API + Skaffold | Dynamic container lifecycle, cgroup resource constraints & auto-reaping |
+| 🤖 **Autonomous Agent** | LangGraph + Google Gemini | Multi-step code generation, tool calling, reflection & automated debugging |
+| ⚡ **Workspace Sync** | Node.js + WebSocket + AWS S3 | File tree delta sync & live hot-reload browser previews inside sandboxes |
+| 🛡️ **Security & Ingress** | JWT + Redis Blacklist + Ingress-Nginx | Database-per-service isolation, token revocation & strict rate-limiting |
 
 </details>
 
@@ -84,76 +90,107 @@ A **legal compliance engine** that doesn't just flag dark patterns — it maps t
 
 ---
 
-### 🌐 JIGYAZA &nbsp;·&nbsp; `conversational research engine`
+### 💊 [PharmaChain](https://github.com/Sahil-coder-30/Pharma_Chain) &nbsp;·&nbsp; `national cryptographic drug provenance & track-and-trace network`
 
 ```
-ARCHITECTURE: real-time streaming answer synthesis
-STATUS:       ██████████ active
+ARCHITECTURE: distributed ledger + ecdsa cryptographic provenance
+STATUS:       ██████████ active · sih 2026
+REPOSITORY:   github.com/Sahil-coder-30/Pharma_Chain
 ```
 
-A **Perplexity-class answer engine** built from scratch. The non-obvious engineering here: a Socket.io streaming bridge that keeps token latency under 80ms end-to-end, a Redis JWT blacklist that prevents stale auth from hitting LLM endpoints, and Mistral Large used purely for deterministic title generation — not because it's cheaper, but because its output is more structurally consistent.
+[![Repository](https://img.shields.io/badge/Repository-Pharma__Chain-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahil-coder-30/Pharma_Chain)&nbsp;
+[![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric_2.5-2F3134?style=flat-square&logo=hyperledger&logoColor=white)](https://github.com/Sahil-coder-30/Pharma_Chain)&nbsp;
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/Sahil-coder-30/Pharma_Chain)&nbsp;
+[![Cryptography](https://img.shields.io/badge/ECDSA-ES256-E34F26?style=flat-square&logoColor=white)](https://github.com/Sahil-coder-30/Pharma_Chain)&nbsp;
+[![React Native](https://img.shields.io/badge/React_Native-Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://github.com/Sahil-coder-30/Pharma_Chain)
 
-`Node.js` `Socket.io` `LangChain` `Gemini 2.5 Flash` `Mistral Large` `Tavily AI` `Redis` `React 19`
+Decentralized pharmaceutical provenance infrastructure built for **Smart India Hackathon (SIH 2026)** to dismantle India's ₹40,000+ Crore counterfeit medicine crisis. Implements a dual-tier serialization model (Carton aggregation + Unit-level GS1 DataMatrix), immutable chain of custody smart contracts on Hyperledger Fabric 2.5 LTS, ECDSA P-256 (ES256) cryptographic signatures, and cross-tier custody verification spanning 3 web portals and 2 React Native mobile applications.
+
+`Hyperledger Fabric 2.5` `Kubernetes` `Spring Boot` `Node.js` `React 18` `React Native (Expo)` `ECDSA ES256` `Docker` `MongoDB`
+
+<details>
+<summary><b>↳ Architecture deep-dive</b></summary>
+<br/>
+
+| Layer | Technology | Security & Provenance Mechanism |
+|:---|:---|:---|
+| ⛓️ **DLT Core** | Hyperledger Fabric 2.5 LTS | Raft consensus, private data collections & immutable custody state machine |
+| 🔐 **Cryptographic Vault** | ECDSA P-256 (ES256) | Digital tamper-evident batch signatures with zero-knowledge verification |
+| 📦 **Two-Tier Serialization** | GS1 DataMatrix + SHA-256 | Parent-child carton aggregation & individual blister-pack verification |
+| 📱 **Omnichannel Clients** | React 18 + React Native Expo | Cryptographic custody handoffs (Manufacturer → Distributor → Chemist → Patient) |
+
+</details>
 
 <br/>
 
 ---
 
-### 🛡️ Project Veracity &nbsp;·&nbsp; `self-healing hallucination firewall`
+### 🧠 [JIGYAZA](https://github.com/Sahil-coder-30/JIGYAZA) &nbsp;·&nbsp; `conversational multi-agent research & reasoning engine`
 
 ```
-ARCHITECTURE: reverse-RAG stream interception
-STATUS:       ████████░░ research
+ARCHITECTURE: real-time streaming answer synthesis + live web grounding
+STATUS:       ██████████ active · shipped
+REPOSITORY:   github.com/Sahil-coder-30/JIGYAZA
 ```
 
-The core insight: instead of post-hoc fact-checking, intercept the **LLM output stream before it reaches the client**. LangGraph state machine routes live token emissions through MongoDB Atlas Vector Search for semantic factual validation. Corrections are injected mid-stream, not appended as disclaimers. The system heals its own output.
+[![Repository](https://img.shields.io/badge/Repository-JIGYAZA-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)&nbsp;
+[![Gemini 2.5](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)&nbsp;
+[![LangChain](https://img.shields.io/badge/LangChain-8B5CF6?style=flat-square&logo=chainlink&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)&nbsp;
+[![Socket.io](https://img.shields.io/badge/Socket.io-Sub_120ms-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)&nbsp;
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)
 
-`LangGraph` `MongoDB Atlas Vector Search` `Reverse-RAG` `Python` `FastAPI`
+A **Perplexity-class autonomous research and reasoning engine** built from scratch. Features a sub-120ms hybrid Socket.io streaming pipeline, iterative query decomposition grounded in real-time via Tavily AI web search, Gemini 2.5 Flash for deep synthesis, and Mistral Large utilized for deterministic citation extraction and structural consistency. Hardened with Redis JWT blacklisting, session state caching, and Kubernetes production manifests.
+
+`Gemini 2.5 Flash` `LangChain` `Mistral Large` `Tavily AI` `Socket.io` `Redis` `Node.js` `Express` `React 19` `Redux Toolkit` `Kubernetes`
+
+<details>
+<summary><b>↳ Architecture deep-dive</b></summary>
+<br/>
+
+| Layer | Technology | Performance & Synthesis Role |
+|:---|:---|:---|
+| ⚡ **Streaming Engine** | Node.js + Socket.io | Chunked token streaming bridge maintaining <120ms end-to-end latency |
+| 🔍 **Live Grounding** | Tavily AI + Gemini 2.5 Flash | Real-time web retrieval, relevance re-ranking & deep multi-source synthesis |
+| 🏷️ **Structured Output** | Mistral Large | Deterministic query summarization, taxonomy parsing & precise source linking |
+| 🛡️ **Session Cache** | Redis Cluster | Instant JWT invalidation arrays & memoized semantic query acceleration |
+
+</details>
 
 <br/>
 
 ---
 
-### ⚔️ AI Battle Arena &nbsp;·&nbsp; `graph-driven LLM benchmarking`
+### 🕵️ [YourCrawl](https://github.com/Sahil-coder-30/YourCrawl) &nbsp;·&nbsp; `enterprise crawler & multi-modal dark pattern auditor`
 
 ```
-ARCHITECTURE: parallel LangGraph state machines
-STATUS:       ████████████ shipped
+ARCHITECTURE: distributed crawling + multi-modal legal compliance rag
+STATUS:       ██████████ active · shipped
+REPOSITORY:   github.com/Sahil-coder-30/YourCrawl
 ```
 
-Performance duels between competing LLMs, orchestrated through LangGraph state machines that safely isolate and pipeline parallel model I/O. MongoDB aggregation handles win/loss tracking, category performance curves, and global leaderboard generation. Secure cookie architecture: HttpOnly, SameSite=None, Secure, with JWT refresh rotation.
+[![Main Repository](https://img.shields.io/badge/Repository-YourCrawl-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahil-coder-30/YourCrawl)&nbsp;
+[![Crawler API](https://img.shields.io/badge/Sub--Repo-Backend-1e1e2e?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/Sahil-coder-30/Backend_YourCrawl)&nbsp;
+[![Frontend](https://img.shields.io/badge/Sub--Repo-Frontend-1e1e2e?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/Sahil-coder-30/Frontend_YourCrawl)&nbsp;
+[![ML Core](https://img.shields.io/badge/Sub--Repo-ML__Model-1e1e2e?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/Sahil-coder-30/ML_YourCrawl)&nbsp;
+[![Legal RAG](https://img.shields.io/badge/Sub--Repo-RAG-1e1e2e?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/Sahil-coder-30/Rag_YourCrawl)
 
-`LangGraph` `Cohere` `Gemini` `Mistral` `MongoDB` `TypeScript` `React`
+A high-performance enterprise crawler and **legal compliance engine** that detects deceptive UI dark patterns and maps them to specific statutory clauses in the **DPDP Act, EU AI Act, and CCPA**. Built on a five-layer pipeline: Puppeteer DOM extraction → YOLO + Open-CLIP visual deception detection → Transformer + XGBoost NLP ensemble → ChromaDB Legal RAG → Gemini cross-verification with automated multi-key failover.
 
+`Next.js 14` `TypeScript` `Puppeteer` `YOLO` `Open-CLIP` `ChromaDB` `Gemini 2.5` `XGBoost` `LightGBM` `Tailwind CSS`
+
+<details>
+<summary><b>↳ Architecture deep-dive</b></summary>
 <br/>
 
----
+| Layer | Technology | Signal & Compliance Mapping |
+|:---|:---|:---|
+| 🕸️ **Crawler Engine** | Next.js 14 + Puppeteer | Headless DOM tree extraction, bounding boxes & computed CSS tokens |
+| 👁️ **Visual Deception** | YOLO + Open-CLIP | Layout distortion, countdown timers, fake urgency & obscured checkboxes |
+| 🧠 **NLP Ensemble** | Transformers + XGBoost + LightGBM | Deceptive copywriting & coercive confirmation bias classification |
+| ⚖️ **Legal RAG** | ChromaDB + LangChain | Clause-level mapping against DPDP Act, EU AI Act & California CCPA |
+| 🔁 **Verification Loop** | Gemini Secondary Vectors | LLM cross-validation with automatic multi-key credential failover |
 
-### 🛍️ SNITCH &nbsp;·&nbsp; `premium dual-role e-commerce engine`
-
-```
-ARCHITECTURE: amazon-class storefront ecosystem
-STATUS:       ██████░░░░ in progress
-```
-
-Not another CRUD store. Dual Buyer/Seller dashboards with RBAC + Google OAuth 2.0, a LangChain + LangGraph style recommendation engine that builds a "Style DNA" profile per user, and a GSAP + glassmorphism frontend that treats UI as a first-class product decision.
-
-`MERN` `LangChain` `LangGraph` `GSAP` `SCSS` `ImageKit` `JWT` `OAuth 2.0`
-
-<br/>
-
----
-
-### 🧠 Moodify &nbsp;·&nbsp; `edge vision mood analytics`
-
-```
-ARCHITECTURE: on-device ML + adaptive UI
-STATUS:       ████████████ shipped
-```
-
-Full biometric emotion classification running **client-side** — no round-trip to inference servers. MediaPipe classifies six emotional states at 30fps, Redis tracks session state and token invalidation arrays, and the UI adapts its layout and content in real-time. Zero-latency because the model never leaves the browser.
-
-`MediaPipe` `React` `Redis` `Node.js` `JWT`
+</details>
 
 <br/>
 
@@ -163,47 +200,71 @@ Full biometric emotion classification running **client-side** — no round-trip 
 
 <br/>
 
-**AI · ML · Orchestration**
+**Cloud, Containers & Infrastructure**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1e1e2e?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Docker](https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=2496ED)
+![Skaffold](https://img.shields.io/badge/Skaffold-1e1e2e?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![AWS S3](https://img.shields.io/badge/AWS_S3-1e1e2e?style=flat-square&logo=amazons3&logoColor=569A31)
+![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-1e1e2e?style=flat-square&logo=nginx&logoColor=009639)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
+![macOS](https://img.shields.io/badge/macOS_M4-1e1e2e?style=flat-square&logo=apple&logoColor=white)
+
+**AI, Multi-Agent & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=3B82F6)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1e1e2e?style=flat-square&logo=chainlink&logoColor=6366F1)
 ![LangChain](https://img.shields.io/badge/LangChain-1e1e2e?style=flat-square&logo=chainlink&logoColor=8B5CF6)
-![Gemini](https://img.shields.io/badge/Gemini-1e1e2e?style=flat-square&logo=google&logoColor=4285F4)
+![Gemini](https://img.shields.io/badge/Gemini_2.5-1e1e2e?style=flat-square&logo=google&logoColor=4285F4)
 ![Mistral](https://img.shields.io/badge/Mistral_AI-1e1e2e?style=flat-square&logoColor=FF7000)
-![YOLO](https://img.shields.io/badge/YOLO-1e1e2e?style=flat-square&logoColor=00D9FF)
-![OpenCLIP](https://img.shields.io/badge/Open--CLIP-1e1e2e?style=flat-square&logoColor=A78BFA)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1e1e2e?style=flat-square&logoColor=007ACC)
 ![MongoDB Vector](https://img.shields.io/badge/Atlas_Vector_Search-1e1e2e?style=flat-square&logo=mongodb&logoColor=47A3F3)
+![YOLO](https://img.shields.io/badge/YOLO-1e1e2e?style=flat-square&logoColor=00D9FF)
+![OpenCLIP](https://img.shields.io/badge/Open--CLIP-1e1e2e?style=flat-square&logoColor=A78BFA)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-1e1e2e?style=flat-square&logo=google&logoColor=FF6F00)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1e1e2e?style=flat-square&logoColor=FF6600)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1e1e2e?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 
-**Backend · Systems**
+**Backend, Blockchain & Distributed Systems**
 
-![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=flat-square&logo=nodedotjs&logoColor=68A063)
+![Node.js](https://img.shields.io/badge/Node.js_20-1e1e2e?style=flat-square&logo=nodedotjs&logoColor=68A063)
 ![Express](https://img.shields.io/badge/Express-1e1e2e?style=flat-square&logo=express&logoColor=EEEEEE)
+![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-1e1e2e?style=flat-square&logo=hyperledger&logoColor=2F3134)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e1e2e?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1e1e2e?style=flat-square&logo=fastapi&logoColor=009688)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Redis](https://img.shields.io/badge/Redis-1e1e2e?style=flat-square&logo=redis&logoColor=DC382D)
 ![Socket.io](https://img.shields.io/badge/Socket.io-1e1e2e?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-1e1e2e?style=flat-square&logo=jsonwebtokens&logoColor=F59E0B)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-1e1e2e?style=flat-square&logo=google&logoColor=4285F4)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-1e1e2e?style=flat-square&logo=google&logoColor=4285F4)
 
-**Frontend · UI**
+**Frontend, Mobile & Databases**
 
 ![React](https://img.shields.io/badge/React_19-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_14-1e1e2e?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-1e1e2e?style=flat-square&logo=redux&logoColor=764ABC)
-![Tailwind](https://img.shields.io/badge/Tailwind-1e1e2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1e1e2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![SCSS](https://img.shields.io/badge/SCSS-1e1e2e?style=flat-square&logo=sass&logoColor=CC6699)
 ![GSAP](https://img.shields.io/badge/GSAP-1e1e2e?style=flat-square&logo=greensock&logoColor=88CE02)
-
-**Data · Infrastructure**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-1e1e2e?style=flat-square&logo=mongodb&logoColor=47A248)
-![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS_Code-1e1e2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![macOS](https://img.shields.io/badge/macOS_M4-1e1e2e?style=flat-square&logo=apple&logoColor=white)
+
+<br/>
+
+---
+
+## `> cat ./contribution-map.svg`
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/output/github-contribution-grid-snake.svg"/>
+    <img alt="Sahil's GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+  </picture>
+</div>
 
 <br/>
 
@@ -215,46 +276,20 @@ Full biometric emotion classification running **client-side** — no round-trip 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sahil-coder-30&show_icons=true&theme=github_dark&border_radius=8&hide_border=true&include_all_commits=true&count_private=true&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sahil-coder-30&show_icons=true&theme=github_dark&border_radius=8&hide_border=true&include_all_commits=true&count_private=true&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&bg_color=0D1117" height="175"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=Sahil-coder-30&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=94A3B8" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Sahil-coder-30&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=94A3B8" height="175"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-coder-30&layout=compact&theme=github_dark&border_radius=8&hide_border=true&langs_count=8&title_color=6366F1&text_color=94A3B8&bg_color=0D1117" height="150"/>
-</div>
 
-<br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sahil-coder-30&layout=compact&theme=github_dark&border_radius=8&hide_border=true&langs_count=8&title_color=6366F1&text_color=94A3B8&bg_color=0D1117" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahil-coder-30&theme=github_dark" height="155"/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-coder-30&theme=github-compact&hide_border=true&radius=4&area=true&area_color=6366F1&color=94A3B8&line=6366F1&point=6366F1&bg_color=0D1117" width="98%"/>
-</div>
-
-<br/>
-
----
-
-## `> cat ./contribution-map.svg`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/output/github-contribution-grid-snake-dark.svg" width="98%"/>
-  </picture>
-</div>
-
-<br/>
-
----
-
-## `> trophies --display`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sahil-coder-30&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7&title_color=6366F1"/>
 </div>
 
 <br/>
@@ -264,23 +299,25 @@ Full biometric emotion classification running **client-side** — no round-trip 
 ## `> man sahil`
 
 ```
-SAHIL(1)                    Developer Manual                    SAHIL(1)
+SAHIL(1)                       Developer Manual                       SAHIL(1)
 
 NAME
-    sahil — full-stack AI engineer, systems thinker
+    sahil — full-stack AI engineer, systems architect, distributed builder
 
 SYNOPSIS
-    sahil [--build] [--research] [--obsess-over-fundamentals]
+    sahil [--build] [--cloud-systems] [--research] [--obsess-over-fundamentals]
 
 DESCRIPTION
-    Builds production-grade AI systems as a B.Tech undergrad.
-    Traces every abstraction to its machine-level origin.
-    Ships systems most engineers won't touch for years.
+    Architects enterprise-grade cloud platforms, Kubernetes sandboxes,
+    and multi-agent intelligence loops as a B.Tech CSE undergrad.
+    Traces every abstraction layer to machine-level primitives.
+    Ships robust distributed systems designed for resilience and scale.
 
 OPTIONS
-    --build           MERN + LangGraph + real-time ML pipelines
-    --research        Reverse-RAG hallucination firewalls
-    --fundamentals    B-Trees, OS memory layout, theory of computation
+    --build           MERN + LangGraph + Kubernetes microservices + Redis
+    --distributed     Hyperledger Fabric 2.5 + ECDSA ES256 cryptographic provenance
+    --research        Reverse-RAG hallucination firewalls & legal RAG ensembles
+    --fundamentals    B-Trees, OS memory layout, network protocols, consensus
     --friends         Samarth, Meghanshu, Shubh
     --hardware        MacBook Air M4
 
@@ -288,11 +325,12 @@ PHILOSOPHY
     The abstraction layer is a lease, not a permanent home.
     Trace your queries to disk seeks.
     Map your variables to memory.
+    Design for fault isolation at every boundary.
 
 SEE ALSO
-    github(1), langraph(1), mongodb-atlas-vector-search(1)
+    github(1), langgraph(1), kubernetes(1), hyperledger(1)
 
-SAHIL                           2025                            SAHIL(1)
+SAHIL                           2026                                  SAHIL(1)
 ```
 
 <br/>
