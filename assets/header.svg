@@ -30,5 +30,5 @@
 
   <text text-anchor="middle" dominant-baseline="middle" x="50%" y="34%" class="text" fill="#F1F5F9">SAHIL SHARMA</text>
   <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="role" fill="#818CF8">AI-Native Software Engineer &amp; Systems Architect</text>
-  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="76%" class="desc" fill="#94A3B8">GenAI • Kubernetes • MERN • PostgreSQL • Distributed Systems</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="76%" class="desc" fill="#94A3B8">GenAI • AWS (EKS, ECS, EC2) • Kubernetes • MERN • PostgreSQL</text>
 </svg>

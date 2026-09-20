@@ -9,7 +9,7 @@
 
 <!-- TERMINAL BOOT SEQUENCE TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=6366F1&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=780&lines=%24+init+sahil.process+--role%3Dai-native-systems-architect;%E2%96%BA+orchestrating+genai+%26+multi-agent+loops...+%5BDONE%5D;%E2%96%BA+deploying+kubernetes+sandboxes+%26+containers...+%5BDONE%5D;%E2%96%BA+mounting+mern+%26+postgresql+data+engines...+%5BDONE%5D;%E2%96%BA+all+systems+nominal.+output%3A+intelligent+systems.;%24+_%20" alt="Terminal boot sequence" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=6366F1&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=%24+init+sahil.process+--role%3Dai-native-systems-architect;%E2%96%BA+orchestrating+genai+%26+multi-agent+loops...+%5BDONE%5D;%E2%96%BA+provisioning+aws+eks%2C+ecs+%26+kubernetes+clusters...+%5BDONE%5D;%E2%96%BA+mounting+mern%2C+postgresql+%26+pinecone+pipelines...+%5BDONE%5D;%E2%96%BA+all+systems+nominal.+output%3A+intelligent+systems.;%24+_%20" alt="Terminal boot sequence" />
 </a>
 
 </div>
@@ -37,13 +37,13 @@
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
 ║  PROCESS  : sahil.sharma                                                         ║
 ║  ROLE     : AI-Native Software Engineer · Systems Architect                      ║
-║  STACK    : GenAI · Kubernetes · MERN · PostgreSQL · Applied ML · Cloud-Native   ║
+║  STACK    : GenAI · AWS (EKS, ECS, EC2) · Kubernetes · MERN · PostgreSQL · Pinecone ║
 ║  UPTIME   : B.Tech CSE Sem 5 @ JSS Academy of Technical Education, Noida         ║
 ║  STATUS   : ▶ ARCHITECTING INTELLIGENT, PRODUCTION-GRADE DISTRIBUTED SYSTEMS    ║
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-I design and engineer **AI-native platforms and distributed cloud systems** — deterministic LangGraph multi-agent loops, isolated Kubernetes execution sandboxes, high-concurrency MERN microservices, and ACID-compliant PostgreSQL data layers. Every abstraction I implement can be traced back to the network packet, container cgroup, and disk seek beneath it.
+I design and engineer **AI-native platforms and resilient cloud infrastructure** — deterministic LangGraph multi-agent workflows, isolated Kubernetes and AWS execution environments, high-concurrency MERN microservices, Pinecone vector pipelines, and ACID-compliant PostgreSQL data layers. Every abstraction I implement can be traced back to the network packet, container cgroup, and disk seek beneath it.
 
 > *"The abstraction layer is a lease, not a permanent home. Own the metal beneath it."*
 
@@ -64,6 +64,7 @@ REPOSITORY:   github.com/Sahil-coder-30/Capstone
 ```
 
 [![Repository](https://img.shields.io/badge/Repository-Capstone-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahil-coder-30/Capstone)&nbsp;
+[![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Sahil-coder-30/Capstone)&nbsp;
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/Sahil-coder-30/Capstone)&nbsp;
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Sahil-coder-30/Capstone)&nbsp;
 [![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logo=chainlink&logoColor=white)](https://github.com/Sahil-coder-30/Capstone)&nbsp;
@@ -71,7 +72,7 @@ REPOSITORY:   github.com/Sahil-coder-30/Capstone
 
 An enterprise-grade, browser-based cloud IDE where every developer and AI agent gets an isolated Kubernetes sandbox pod with a live Vite dev server, a File System API sidecar, an interactive PTY terminal server, and a real-time S3 sync daemon. Asymmetric scaling decouples compute-heavy LangGraph agent loops from stateless JWT authentication and high-concurrency WebSocket proxies, isolating blast radiuses and guaranteeing zero cross-tenant contamination.
 
-`Kubernetes` `Docker` `Skaffold` `LangGraph` `GenAI` `Node.js` `Express` `React` `TypeScript` `MongoDB` `Redis` `AWS S3` `WebSocket`
+`AWS EKS` `Kubernetes` `Docker` `Skaffold` `LangGraph` `GenAI` `Node.js` `Express` `React` `TypeScript` `MongoDB` `Redis` `AWS S3` `WebSocket`
 
 <details>
 <summary><b>↳ Architecture deep-dive</b></summary>
@@ -79,8 +80,8 @@ An enterprise-grade, browser-based cloud IDE where every developer and AI agent 
 
 | Layer | Technology | Operational Function |
 |:---|:---|:---|
-| ☸️ **Pod Orchestration** | Kubernetes API + Skaffold | Dynamic container lifecycle, cgroup resource constraints & auto-reaping |
-| 🤖 **Autonomous Agent** | LangGraph + Google Gemini | Multi-step code generation, tool calling, reflection & automated debugging |
+| ☸️ **Pod Orchestration** | Kubernetes / AWS EKS + Skaffold | Dynamic container lifecycle, cgroup resource constraints & auto-reaping |
+| 🤖 **Autonomous Agent** | LangGraph + Multi-Agent Loops | Multi-step code generation, tool calling, reflection & automated debugging |
 | ⚡ **Workspace Sync** | Node.js + WebSocket + AWS S3 | File tree delta sync & live hot-reload browser previews inside sandboxes |
 | 🛡️ **Security & Ingress** | JWT + Redis Blacklist + Ingress-Nginx | Database-per-service isolation, token revocation & strict rate-limiting |
 
@@ -93,12 +94,13 @@ An enterprise-grade, browser-based cloud IDE where every developer and AI agent 
 ### 💊 [PharmaChain](https://github.com/Sahil-coder-30/Pharma_Chain) &nbsp;·&nbsp; `national cryptographic drug provenance & track-and-trace network`
 
 ```
-ARCHITECTURE: cryptographic microservices + tamper-evident custody pipeline
+ARCHITECTURE: cloud-native microservices + tamper-evident custody pipeline
 STATUS:       ██████████ active · sih 2026
 REPOSITORY:   github.com/Sahil-coder-30/Pharma_Chain
 ```
 
 [![Repository](https://img.shields.io/badge/Repository-Pharma__Chain-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahil-coder-30/Pharma_Chain)&nbsp;
+[![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Sahil-coder-30/Pharma_Chain)&nbsp;
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/Sahil-coder-30/Pharma_Chain)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Sahil-coder-30/Pharma_Chain)&nbsp;
 [![Cryptography](https://img.shields.io/badge/ECDSA-ES256-E34F26?style=flat-square&logoColor=white)](https://github.com/Sahil-coder-30/Pharma_Chain)&nbsp;
@@ -106,7 +108,7 @@ REPOSITORY:   github.com/Sahil-coder-30/Pharma_Chain
 
 Decentralized pharmaceutical provenance infrastructure built for **Smart India Hackathon (SIH 2026)** to dismantle India's ₹40,000+ Crore counterfeit medicine crisis. Implements a dual-tier serialization model (Carton aggregation + Unit-level GS1 DataMatrix), immutable chain of custody pipelines, ECDSA P-256 (ES256) cryptographic signatures, and cross-tier custody verification spanning 3 web portals and 2 React Native mobile applications.
 
-`Kubernetes` `PostgreSQL` `MongoDB` `Spring Boot` `Node.js` `React 18` `React Native (Expo)` `ECDSA ES256` `Docker`
+`AWS ECS` `Kubernetes` `PostgreSQL` `MongoDB` `Spring Boot` `Node.js` `React 18` `React Native (Expo)` `ECDSA ES256` `Docker`
 
 <details>
 <summary><b>↳ Architecture deep-dive</b></summary>
@@ -116,7 +118,7 @@ Decentralized pharmaceutical provenance infrastructure built for **Smart India H
 |:---|:---|:---|
 | 🔐 **Cryptographic Vault** | ECDSA P-256 (ES256) | Digital tamper-evident batch signatures with zero-knowledge verification |
 | 📦 **Two-Tier Serialization** | GS1 DataMatrix + SHA-256 | Parent-child carton aggregation & individual blister-pack verification |
-| ☸️ **Cloud Infrastructure** | Kubernetes + Docker | Microservices cluster scaling across authentication, custody, and verification |
+| ☸️ **Cloud Infrastructure** | AWS ECS + Kubernetes + Docker | Microservices cluster scaling across authentication, custody, and verification |
 | 📱 **Omnichannel Clients** | React 18 + React Native Expo | Cryptographic custody handoffs (Manufacturer → Distributor → Chemist → Patient) |
 
 </details>
@@ -128,20 +130,21 @@ Decentralized pharmaceutical provenance infrastructure built for **Smart India H
 ### 🧠 [JIGYAZA](https://github.com/Sahil-coder-30/JIGYAZA) &nbsp;·&nbsp; `conversational multi-agent research & reasoning engine`
 
 ```
-ARCHITECTURE: real-time streaming answer synthesis + live web grounding
+ARCHITECTURE: real-time streaming answer synthesis + pinecone vector grounding
 STATUS:       ██████████ active · shipped
 REPOSITORY:   github.com/Sahil-coder-30/JIGYAZA
 ```
 
 [![Repository](https://img.shields.io/badge/Repository-JIGYAZA-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)&nbsp;
-[![GenAI](https://img.shields.io/badge/GenAI-Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)&nbsp;
+[![GenAI](https://img.shields.io/badge/GenAI-Agentic_Search-4285F4?style=flat-square&logo=openai&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)&nbsp;
+[![Pinecone](https://img.shields.io/badge/Pinecone-Vector_Index-10B981?style=flat-square&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)&nbsp;
 [![LangChain](https://img.shields.io/badge/LangChain-8B5CF6?style=flat-square&logo=chainlink&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)&nbsp;
 [![Socket.io](https://img.shields.io/badge/Socket.io-Sub_120ms-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)&nbsp;
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/Sahil-coder-30/JIGYAZA)
 
-A **Perplexity-class autonomous research and reasoning engine** built from scratch. Features a sub-120ms hybrid Socket.io streaming pipeline, iterative query decomposition grounded in real-time via Tavily AI web search, Gemini 2.5 Flash for deep synthesis, and Mistral Large utilized for deterministic citation extraction and structural consistency. Hardened with Redis JWT blacklisting, session state caching, and Kubernetes production manifests.
+A **Perplexity-class autonomous research and reasoning engine** built from scratch. Features a sub-120ms hybrid Socket.io streaming pipeline, iterative query decomposition grounded through Pinecone vector retrieval and live search grounding, multi-agent synthesis, and deterministic source extraction. Hardened with Redis JWT blacklisting, session state caching, and Kubernetes production manifests.
 
-`GenAI` `Gemini 2.5 Flash` `LangChain` `Mistral Large` `Tavily AI` `Socket.io` `Redis` `Node.js` `Express` `React 19` `Redux Toolkit` `Kubernetes`
+`GenAI` `LangChain` `Pinecone` `Tavily AI` `Socket.io` `Redis` `Node.js` `Express` `React 19` `Redux Toolkit` `Kubernetes`
 
 <details>
 <summary><b>↳ Architecture deep-dive</b></summary>
@@ -150,8 +153,8 @@ A **Perplexity-class autonomous research and reasoning engine** built from scrat
 | Layer | Technology | Performance & Synthesis Role |
 |:---|:---|:---|
 | ⚡ **Streaming Engine** | Node.js + Socket.io | Chunked token streaming bridge maintaining <120ms end-to-end latency |
-| 🔍 **Live Grounding** | Tavily AI + Gemini 2.5 Flash | Real-time web retrieval, relevance re-ranking & deep multi-source synthesis |
-| 🏷️ **Structured Output** | Mistral Large | Deterministic query summarization, taxonomy parsing & precise source linking |
+| 🔍 **Vector Grounding** | Pinecone + LangChain | High-dimensional semantic indexing, relevance re-ranking & synthesis |
+| 🏷️ **Structured Output** | Agentic LLM Pipeline | Deterministic query summarization, taxonomy parsing & precise source linking |
 | 🛡️ **Session Cache** | Redis Cluster | Instant JWT invalidation arrays & memoized semantic query acceleration |
 
 </details>
@@ -160,10 +163,10 @@ A **Perplexity-class autonomous research and reasoning engine** built from scrat
 
 ---
 
-### 🕵️ [YourCrawl](https://github.com/Sahil-coder-30/YourCrawl) &nbsp;·&nbsp; `enterprise crawler & multi-modal dark pattern auditor`
+### 🕵️ [YourCrawl](https://github.com/Sahil-coder-30/YourCrawl) &nbsp;·&nbsp; `enterprise crawler & legal compliance audit engine`
 
 ```
-ARCHITECTURE: distributed crawling + multi-modal legal compliance rag
+ARCHITECTURE: distributed crawling + agentic legal compliance rag
 STATUS:       ██████████ active · shipped
 REPOSITORY:   github.com/Sahil-coder-30/YourCrawl
 ```
@@ -171,24 +174,23 @@ REPOSITORY:   github.com/Sahil-coder-30/YourCrawl
 [![Main Repository](https://img.shields.io/badge/Repository-YourCrawl-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahil-coder-30/YourCrawl)&nbsp;
 [![Crawler API](https://img.shields.io/badge/Sub--Repo-Backend-1e1e2e?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/Sahil-coder-30/Backend_YourCrawl)&nbsp;
 [![Frontend](https://img.shields.io/badge/Sub--Repo-Frontend-1e1e2e?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/Sahil-coder-30/Frontend_YourCrawl)&nbsp;
-[![ML Core](https://img.shields.io/badge/Sub--Repo-ML__Model-1e1e2e?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/Sahil-coder-30/ML_YourCrawl)&nbsp;
+[![Crawler Engine](https://img.shields.io/badge/Sub--Repo-Crawler-1e1e2e?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/Sahil-coder-30/ML_YourCrawl)&nbsp;
 [![Legal RAG](https://img.shields.io/badge/Sub--Repo-RAG-1e1e2e?style=flat-square&logo=github&logoColor=94A3B8)](https://github.com/Sahil-coder-30/Rag_YourCrawl)
 
-A high-performance enterprise crawler and **legal compliance engine** that detects deceptive UI dark patterns and maps them to specific statutory clauses in the **DPDP Act, EU AI Act, and CCPA**. Built on a five-layer pipeline: Puppeteer DOM extraction → YOLO + Open-CLIP visual deception detection → Transformer + XGBoost NLP ensemble → ChromaDB Legal RAG → Gemini cross-verification with automated multi-key failover.
+A high-performance enterprise crawler and **legal compliance audit engine** that audits web pages for deceptive UI patterns and automatically maps findings to specific statutory clauses in the **DPDP Act, EU AI Act, and CCPA**. Built on a modular pipeline: Puppeteer headless browser orchestration with robots.txt compliance → structured DOM token analysis → Pinecone semantic statutory retrieval → automated GenAI verification and reporting.
 
-`Next.js 14` `TypeScript` `GenAI` `Puppeteer` `YOLO` `Open-CLIP` `ChromaDB` `Gemini 2.5` `XGBoost` `LightGBM` `Tailwind CSS`
+`Next.js 14` `TypeScript` `Puppeteer` `GenAI` `Pinecone` `PostgreSQL` `Tailwind CSS` `AWS EC2`
 
 <details>
 <summary><b>↳ Architecture deep-dive</b></summary>
 <br/>
 
-| Layer | Technology | Signal & Compliance Mapping |
+| Layer | Technology | Role & Pipeline Step |
 |:---|:---|:---|
 | 🕸️ **Crawler Engine** | Next.js 14 + Puppeteer | Headless DOM tree extraction, bounding boxes & computed CSS tokens |
-| 👁️ **Visual Deception** | YOLO + Open-CLIP | Layout distortion, countdown timers, fake urgency & obscured checkboxes |
-| 🧠 **NLP Ensemble** | Transformers + XGBoost + LightGBM | Deceptive copywriting & coercive confirmation bias classification |
-| ⚖️ **Legal RAG** | ChromaDB + LangChain | Clause-level mapping against DPDP Act, EU AI Act & California CCPA |
-| 🔁 **Verification Loop** | Gemini Secondary Vectors | LLM cross-validation with automatic multi-key credential failover |
+| ⚖️ **Legal RAG** | Pinecone + LangChain | Semantic clause-level matching against DPDP Act, EU AI Act & CCPA |
+| 🤖 **Audit Pipeline** | GenAI Agentic Loop | Coercive pattern detection & multi-clause compliance report generation |
+| 🛡️ **Infrastructure** | Docker + AWS EC2 | High-throughput concurrent crawling with robots.txt politeness enforcement |
 
 </details>
 
@@ -204,21 +206,25 @@ A high-performance enterprise crawler and **legal compliance engine** that detec
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1e1e2e?style=flat-square&logo=chainlink&logoColor=6366F1)
 ![LangChain](https://img.shields.io/badge/LangChain-1e1e2e?style=flat-square&logo=chainlink&logoColor=8B5CF6)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-1e1e2e?style=flat-square&logo=google&logoColor=4285F4)
-![Mistral](https://img.shields.io/badge/Mistral_AI-1e1e2e?style=flat-square&logoColor=FF7000)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1e1e2e?style=flat-square&logoColor=007ACC)
+![Pinecone](https://img.shields.io/badge/Pinecone-1e1e2e?style=flat-square&logoColor=10B981)
+![OpenAI](https://img.shields.io/badge/OpenAI-1e1e2e?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-1e1e2e?style=flat-square&logo=anthropic&logoColor=white)
 ![MongoDB Vector](https://img.shields.io/badge/Atlas_Vector_Search-1e1e2e?style=flat-square&logo=mongodb&logoColor=47A3F3)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-1e1e2e?style=flat-square&logoColor=10B981)
 
-**Cloud, Containers & Kubernetes**
+**Cloud, Containers & Infrastructure**
 
+![AWS EKS](https://img.shields.io/badge/AWS_EKS-1e1e2e?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-1e1e2e?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-1e1e2e?style=flat-square&logo=amazonec2&logoColor=FF9900)
+![AWS S3](https://img.shields.io/badge/AWS_S3-1e1e2e?style=flat-square&logo=amazons3&logoColor=569A31)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1e1e2e?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Docker](https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=2496ED)
 ![Skaffold](https://img.shields.io/badge/Skaffold-1e1e2e?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![AWS S3](https://img.shields.io/badge/AWS_S3-1e1e2e?style=flat-square&logo=amazons3&logoColor=569A31)
 ![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&logo=linux&logoColor=FCC624)
 ![Nginx](https://img.shields.io/badge/Nginx-1e1e2e?style=flat-square&logo=nginx&logoColor=009639)
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
+![macOS](https://img.shields.io/badge/macOS_M4-1e1e2e?style=flat-square&logo=apple&logoColor=white)
 
 **MERN & Backend Architecture**
 
@@ -233,15 +239,15 @@ A high-performance enterprise crawler and **legal compliance engine** that detec
 ![JWT](https://img.shields.io/badge/JWT-1e1e2e?style=flat-square&logo=jsonwebtokens&logoColor=F59E0B)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-1e1e2e?style=flat-square&logo=google&logoColor=4285F4)
 
-**Databases & Storage Engines**
+**Databases & Vector Storage**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Pinecone](https://img.shields.io/badge/Pinecone_DB-1e1e2e?style=flat-square&logoColor=10B981)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1e1e2e?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis_Cluster-1e1e2e?style=flat-square&logo=redis&logoColor=DC382D)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-1e1e2e?style=flat-square&logo=amazons3&logoColor=569A31)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1e1e2e?style=flat-square&logoColor=007ACC)
 
-**Applied ML, Frontend & Mobile**
+**Frontend & Mobile Engineering**
 
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=3B82F6)
 ![Next.js](https://img.shields.io/badge/Next.js_14-1e1e2e?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -250,10 +256,6 @@ A high-performance enterprise crawler and **legal compliance engine** that detec
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1e1e2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![SCSS](https://img.shields.io/badge/SCSS-1e1e2e?style=flat-square&logo=sass&logoColor=CC6699)
 ![GSAP](https://img.shields.io/badge/GSAP-1e1e2e?style=flat-square&logo=greensock&logoColor=88CE02)
-![YOLO](https://img.shields.io/badge/YOLO-1e1e2e?style=flat-square&logoColor=00D9FF)
-![OpenCLIP](https://img.shields.io/badge/Open--CLIP-1e1e2e?style=flat-square&logoColor=A78BFA)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-1e1e2e?style=flat-square&logo=google&logoColor=FF6F00)
-![XGBoost](https://img.shields.io/badge/XGBoost-1e1e2e?style=flat-square&logoColor=FF6600)
 
 <br/>
 
@@ -313,18 +315,18 @@ NAME
     sahil — ai-native software engineer, systems architect
 
 SYNOPSIS
-    sahil [--build] [--genai] [--kubernetes] [--systems]
+    sahil [--build] [--genai] [--cloud-aws-k8s] [--systems]
 
 DESCRIPTION
-    Designs production-grade AI-native platforms, Kubernetes sandboxes,
+    Designs production-grade AI-native platforms, Kubernetes & AWS sandboxes,
     and agentic intelligence loops as a B.Tech CSE undergrad.
     Engineers high-concurrency MERN & PostgreSQL distributed systems.
     Bridges foundational computer science with cutting-edge GenAI.
 
 OPTIONS
-    --build           MERN stack + PostgreSQL + real-time Socket.io pipelines
-    --genai           LangGraph multi-agent loops, RAG architectures, LLM reasoning
-    --kubernetes      Container orchestration, dynamic pod sandboxes, Skaffold
+    --build           MERN stack + PostgreSQL + Pinecone + real-time Socket.io
+    --genai           LangGraph agent loops, Pinecone vector search, RAG pipelines
+    --cloud-aws-k8s   AWS EKS, ECS, EC2, Kubernetes pod orchestration, Skaffold
     --systems         ACID transactions, caching topologies, fault tolerance
     --friends         Samarth, Meghanshu, Shubh
     --hardware        Apple Silicon M4 · macOS
@@ -336,7 +338,7 @@ PHILOSOPHY
     Design for fault isolation at every boundary.
 
 SEE ALSO
-    github(1), genai(1), kubernetes(1), postgresql(1)
+    github(1), genai(1), kubernetes(1), aws(1), postgresql(1)
 
 SAHIL                           2026                                  SAHIL(1)
 ```
