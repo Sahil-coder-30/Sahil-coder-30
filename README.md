@@ -59,5 +59,9 @@ I build web apps, AI agents, and the cloud infrastructure that runs them.
 ### Contribution Activity
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sahil-coder-30&theme=dark&hide_border=true" alt="Sahil's GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Sahil-coder-30/Sahil-coder-30/output/build-drop.svg" alt="Contribution graph being built, one block per active day" width="100%" />
 </p>
