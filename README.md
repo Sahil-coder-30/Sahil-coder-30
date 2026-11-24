@@ -2,9 +2,9 @@
 
 # Sahil Sharma
 
-**Full-Stack & AI Engineer · Kubernetes Contributor**
+**AI Systems Architect**
 
-I build web apps, AI agents, and the cloud infrastructure that runs them.
+I design AI agents and the cloud systems that run them at scale.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sharma-1a024b330/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahilsharma3043@gmail.com)
@@ -16,7 +16,6 @@ I build web apps, AI agents, and the cloud infrastructure that runs them.
 ### About
 
 - B.Tech CSE student at JSS Academy of Technical Education, Noida
-- Open source contributor to **[Kubernetes](https://github.com/kubernetes)**
 - Currently building **[Capstone](https://github.com/Sahil-coder-30/Capstone)**, a cloud IDE that runs every user in their own Kubernetes pod
 - Interested in AI agents, distributed systems, and developer tools
 
