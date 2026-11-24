@@ -56,6 +56,10 @@ I design AI agents and the cloud systems that run them at scale.
 
 **AI:** LangChain · LangGraph · RAG · Pinecone
 
+### Open Source
+
+- **[kubernetes/minikube](https://github.com/kubernetes/minikube)**: run Kubernetes locally
+
 ### Contribution Activity
 
 <p align="center">
