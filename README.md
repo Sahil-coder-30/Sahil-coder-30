@@ -2,7 +2,7 @@
 
 # Sahil Sharma
 
-**Full-Stack & AI Engineer**
+**Full-Stack & AI Engineer · Kubernetes Contributor**
 
 I build web apps, AI agents, and the cloud infrastructure that runs them.
 
@@ -16,17 +16,9 @@ I build web apps, AI agents, and the cloud infrastructure that runs them.
 ### About
 
 - B.Tech CSE student at JSS Academy of Technical Education, Noida
-- Open source contributor to **[Kubernetes minikube](https://github.com/kubernetes/minikube)**
+- Open source contributor to **[Kubernetes](https://github.com/kubernetes)**
 - Currently building **[Capstone](https://github.com/Sahil-coder-30/Capstone)**, a cloud IDE that runs every user in their own Kubernetes pod
 - Interested in AI agents, distributed systems, and developer tools
-
-### Open Source
-
-[![Kubernetes Contributor](https://img.shields.io/badge/Kubernetes-Contributor-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3ASahil-coder-30+org%3Akubernetes+is%3Amerged)
-
-| Project | Contribution | Status |
-|---|---|---|
-| [kubernetes/minikube](https://github.com/kubernetes/minikube) | [Document supported macOS versions](https://github.com/kubernetes/minikube/pull/24117) | Merged |
 
 ### Featured Projects
 
