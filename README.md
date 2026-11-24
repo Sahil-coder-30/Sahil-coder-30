@@ -29,9 +29,9 @@ I design AI agents and the cloud systems that run them at scale.
       <sub>Kubernetes · AWS · Node.js · React · LangGraph</sub>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Sahil-coder-30/JIGYAZA">JIGYAZA</a></h4>
-      <p>Multi-agent research engine that breaks down a question, searches the live web, and streams a grounded answer.</p>
-      <sub>Node.js · LangChain · Socket.io · Pinecone · Redis</sub>
+      <h4><a href="https://github.com/Sahil-coder-30/Pratyaksha">Pratyaksha</a></h4>
+      <p>Browser AI agent that turns your real Chrome into an MCP server. Sensitive data is masked on-device before anything reaches the LLM.</p>
+      <sub>TypeScript · LangGraph · MCP · Python · PaddleOCR · YOLO</sub>
     </td>
   </tr>
   <tr>
